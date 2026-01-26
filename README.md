@@ -12,8 +12,8 @@
 ## 📊 Stats, because… why not?
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikas17mc&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikas17mc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n3koBomb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3koBomb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
