@@ -9,7 +9,8 @@
 
 ---
 
-## 📊 Stats, because… why not?
+## 📊 Stats
+<!-- , because… why not? -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n3koBomb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
@@ -22,7 +23,7 @@
 
 | Languages | Frameworks | IDEs | Tools | OS |
 |----------|------------|------|-------|----|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java" title="HTML, CSS, JavaScript, PHP, Python, Java"/> | <img src="https://skillicons.dev/icons?i=threejs,nodejs,express,pug" title="ThreeJS, Node.js, Express, Pug"/> | <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" title="Git, GitHub, Cloudflare, Postman"/> | <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi" title="Windows, Linux, Ubuntu, Kali, RaspberryPi"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java" title="HTML, CSS, JavaScript, PHP, Python, Java"/> | <img src="https://skillicons.dev/icons?i=threejs,nodejs,express,pug" title="ThreeJS, Node.js, Express, Pug"/> | <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" title="Git, GitHub, Cloudflare, Postman"/> | <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi,cachyos" title="Windows, Linux, Ubuntu, Kali, RaspberryPi, Cachy OS"/> |
 
 <sub>I also whisper to MySQL and Bash in the dark, when no one's watching…</sub><br>
 <sub>📝 Next up: TypeScript & React — because static typing is good and components are the future.</sub>
@@ -69,11 +70,12 @@ CREATE TABLE base (
 INSERT INTO base VALUES (1, 'Hello', 'World');
 ```
 
-> Yes. I know. Masterpieces. 🧠💥
+<!-- > Yes. I know. Masterpieces. 🧠💥 -->
 
 ---
 
-## 🚧 Projects (and experiments that survived)
+## 🚧 Projects (and experiments) that not survived 🫠
+<!-- (and experiments that survived) -->
 
 <div align="center">
 
@@ -87,7 +89,7 @@ INSERT INTO base VALUES (1, 'Hello', 'World');
 
 </div>
 
-<sub>More in the lab. Some explode. Some evolve.</sub>
+<sub>More in the lab. Some crashes. Some forgets in the caves.</sub>
 
 ---
 
@@ -130,4 +132,4 @@ INSERT INTO base VALUES (1, 'Hello', 'World');
 
 ---
 
-<sub>Yes, this README updates as I evolve. So stay tuned… or don’t. I’ll keep coding anyway.</sub>
+<sub>Yes, this README updates as I evolve. So stay tuned… or don’t. I’ll keep coding anyway, but only when I have time after Jork 🫩 (Work).</sub>
