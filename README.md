@@ -100,7 +100,6 @@ console.log("It works!");
 <summary><b>🏛️ Repository archaeology</b></summary>
 
 Earlier projects and experiments — preserved for science, nostalgia, and evidence that everyone starts somewhere.
-| 🔧 **** | An ongoing Node.js / Express / Pug project for device tracking, repairs, parts, quality checks, reports, and real-time updates. Turning “where is that device?” into a question a dashboard can answer. |
 - **[Digitaler Techniker Dashboard](https://github.com/n3koBomb/digital_technician_dashboard)**
 - **[J2H](https://github.com/n3koBomb/j2h)** — archived
 - **[AniBuu](https://github.com/n3koBomb/aniBuu)** — archived
