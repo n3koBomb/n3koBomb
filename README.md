@@ -1,135 +1,143 @@
-<!-- README.md -->
+<!-- Profile README for n3koBomb -->
 
-<h1 align="center">Hey there, I’m ニコライ 👋</h1>
-<h3 align="center">Curious mind | Code tinkerer | Digital astronaut</h3>
+<h1 align="center">Hey, I’m ニコライ 👋</h1>
+<h3 align="center">Systems integration apprentice · Web tinkerer · Bug negotiator</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=130&lines=%F0%9F%9A%80+Crafting+interactive+web+experiences;%F0%9F%8E%AE+Debugging+is+my+superpower;%F0%9F%8C%90+Three.js+fanboy;%F0%9F%8D%9C+Fueled+by+coffee+and+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1400&amp;color=70F0B5&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=Building%20useful%20web%20apps;Negotiating%20with%20Linux;It%20worked%20until%20I%20improved%20it" alt="Building useful web apps. Negotiating with Linux. It worked until I improved it." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/n3koBomb"><img src="https://img.shields.io/badge/GitHub-n3koBomb-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: n3koBomb" /></a>
+  <img src="https://img.shields.io/badge/Location-D%C3%BCsseldorf-38BDF8?style=flat-square" alt="Based in Düsseldorf, Germany" />
+  <img src="https://img.shields.io/badge/Build-works_on_my_machine-22C55E?style=flat-square" alt="Build status, allegedly: works on my machine" />
+</p>
+
+<p align="center">
+  I build things for the browser, automate the repetitive stuff,<br />
+  and occasionally turn a five-minute fix into an evening with documentation.
 </p>
 
 ---
 
-## 📊 Stats
-<!-- , because… why not? -->
+## 📊 The dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3koBomb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3koBomb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n3koBomb&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub activity statistics for n3koBomb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3koBomb&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="Language breakdown of public repositories for n3koBomb" />
+</p>
 
----
+<sub>The language card describes repository contents. My ability to center a div remains unquantified.</sub>
 
-## 🧰 Toolbox of a Digital Tinkerer
+## 🚧 Currently in the workshop
 
-| Languages | Frameworks | IDEs | Tools | OS |
-|----------|------------|------|-------|----|
-| <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java" title="HTML, CSS, JavaScript, PHP, Python, Java"/> | <img src="https://skillicons.dev/icons?i=threejs,nodejs,express,pug" title="ThreeJS, Node.js, Express, Pug"/> | <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> | <img src="https://skillicons.dev/icons?i=git,github,cloudflare,postman" title="Git, GitHub, Cloudflare, Postman"/> | <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,raspberrypi,cachyos" title="Windows, Linux, Ubuntu, Kali, RaspberryPi, Cachy OS"/> |
+| Project | What I’m working on | Website |
+| --- | --- | --- |
+| 🚋 **LinienBlick** | An early-stage Düsseldorf transit project for documenting experienced ticket inspections by place, time, and line. Exploring GTFS data for route context and future statistics. Public transport has lore; I want structured data. | Current unavailable |
+| 🌍 **[MIRoKIT](https://github.com/n3koBomb/mirokit)** | A multilingual website for an international culture, games, and creativity project. Working on its UI, media galleries, and content administration with Cloudflare Pages/Workers, D1, and R2. | **[CLICK ME](https://mirokit.com)** |
+| 🌙 **Three.js experiments** | Browser-based 3D and physics experiments, including a moon-landing project with Cannon-es. Gravity: implemented. Landing gently: another discussion. | **[CLICK ME](https://nkodyssee.pages.dev)** |
 
-<sub>I also whisper to MySQL and Bash in the dark, when no one's watching…</sub><br>
-<sub>📝 Next up: TypeScript & React — because static typing is good and components are the future.</sub>
+<sub>These projects are at different stages of development. “In the workshop” does not mean “finished”; the TODOs have legal residence.</sub>
 
----
+## 🧰 Toolbox
 
-## 🧠 About Me
+| Web & UI | Backend & Data | Dev Tools & Cloud | Systems & Scripts | Learning / Exploring |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,figma&amp;perline=3" width="144" alt="HTML, CSS, JavaScript, Three.js, Figma" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,pug,mongodb,mysql,php&amp;perline=3" width="144" alt="Node.js, Express, Pug, MongoDB, MySQL, PHP" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,postman,npm&amp;perline=3" width="144" alt="Git, GitHub, VS Code, Cloudflare, Postman, npm" /> | <img src="https://skillicons.dev/icons?i=linux,arch,windows,bash,powershell,py&amp;perline=3" width="144" alt="Linux, Arch Linux ecosystem, Windows, Bash, PowerShell, Python; experience varies" /> | <img src="https://skillicons.dev/icons?i=rust,ts,react&amp;perline=3" width="144" alt="Learning interests: Rust and Cargo, TypeScript, React" /><br /><sub>Rust & Cargo · TypeScript · React</sub> |
 
-- 🌱 Currently sharpening my skills in JS, PHP, and Bash
-- 🧪 Experimenting with Node.js, Express, and Pug for full-stack wizardry
-- 🎓 Studying IT at vocational college (yes, I touch grass sometimes)
-- 👨‍💻 Passionate about creating things that run in your browser and occasionally crash in style
-- 🐞 Debugging isn’t a chore, it’s my therapy
+My main playground is **JavaScript, Node.js, Express, and Pug**. Also in the mix: **Socket.IO, Mongoose, SQL, SVG, and browser APIs**.
 
----
+<sub>Experience varies across the toolbox. The learning column is a roadmap, not a victory screen.</sub>
 
-## 💻 Code I vibe with
+## 🦀 Rust & Cargo: tutorial mode
+
+**Rust and Cargo** are on my exploration list. I’m at the beginner stage: getting familiar with the ecosystem and aiming for small experiments that help me understand ownership, borrowing, and the compiler.
+
+> Current goal: a small program I understand.  
+> NASA software and Cloudflare-scale optimizations are several side quests away.
+
+Also on the learning radar: **TypeScript, React, networking, and automation**. One confusing error message at a time.
+
+## 🧠 The person behind the console.log
+
+I’m **Nikolai**, a curious developer from **Düsseldorf, Germany**.
+
+- 🎓 **Systems integration apprentice at Telefónica Germany** since September 2026 — officially *Fachinformatiker für Systemintegration*.
+- 💻 My biggest coding interest is **web and application development**: useful interfaces, sensible backends, and understanding how the whole thing fits together.
+- 🛠️ My usual playground is **JavaScript, Node.js, Express, and Pug**. Three.js is where I go when two dimensions feel suspiciously reasonable.
+- ♿ I care about **readable layouts, accessibility, dark/light themes, and documentation people can actually use**.
+- 🗣️ Native **German and Russian**; improving **English** and learning **Japanese**. Stack traces are the unofficial fifth language.
+
+> “I’ll just fix this one thing.”  
+> — Me, shortly before opening twelve tabs and discovering a second thing.
+
+## 🐧 Side quests that became main quests
+
+- **Linux:** CachyOS + Hyprland + Caelestia. A desktop is never finished if there is still a config file.
+- **Minecraft:** servers, mods, tunnels, maps, and the occasional authentication mystery. It’s a block game until DNS gets involved.
+- **Hardware & electronics:** computers, tinkering, and an interest in robotics. Software bugs are fun; hardware adds suspense.
+- **Away from the keyboard:** cycling, cooking, anime, and thriller books. Sometimes the thriller is `journalctl`.
+
+<details>
+<summary><b>💻 A highly scientific developer profile</b></summary>
 
 ```js
-// Classic warm-up ritual
-console.log("Hello World");
+const nikolai = {
+  handle: "n3koBomb",
+  mainQuest: "Understand it. Build it. Debug it.",
+  favoriteStack: ["JavaScript", "Node.js", "Express", "Pug"],
+  sideQuests: ["Three.js", "Linux configs", "Minecraft servers"],
+  currentTask: "A small CSS adjustment",
+  actualScope: "To be determined",
+};
+
+console.log("It works!");
+// Next step: find out why.
 ```
 
-```php
-<?php echo "Hello World"; ?>
-```
+</details>
 
-```bash
-echo 'Hello World'
-```
+<details>
+<summary><b>🏛️ Repository archaeology</b></summary>
 
-```pug
-- var string = "Hello World"
-each char in string
-  p= char
-```
+Earlier projects and experiments — preserved for science, nostalgia, and evidence that everyone starts somewhere.
+| 🔧 **** | An ongoing Node.js / Express / Pug project for device tracking, repairs, parts, quality checks, reports, and real-time updates. Turning “where is that device?” into a question a dashboard can answer. |
+- **[Digitaler Techniker Dashboard](https://github.com/n3koBomb/digital_technician_dashboard)**
+- **[J2H](https://github.com/n3koBomb/j2h)** — archived
+- **[AniBuu](https://github.com/n3koBomb/aniBuu)** — archived
+- **[rnB_msP](https://github.com/n3koBomb/rnB_msP)** — archived
+- **[WinGet Install Script](https://github.com/n3koBomb/win-get_install_script)** — archived
+- **[My website from 2020](https://github.com/n3koBomb/nikas17mc.github.io)** — archived; a digital time capsule
 
-```sql
-CREATE TABLE base (
-  id INT PRIMARY KEY,
-  first_word VARCHAR(5),
-  last_word VARCHAR(5)
-);
-INSERT INTO base VALUES (1, 'Hello', 'World');
-```
+<sub>Some ideas get shipped. Some get shelved. All of them teach you something, even if that something is “make a backup.”</sub>
 
-<!-- > Yes. I know. Masterpieces. 🧠💥 -->
+</details>
+
+
+## 🐍 The contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n3koBomb/n3koBomb/snake-output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n3koBomb/n3koBomb/snake-output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/n3koBomb/n3koBomb/snake-output/github-snake.svg" alt="Animated snake moving through n3koBomb’s GitHub contribution grid" />
+  </picture>
+</p>
+
+<p align="center"><sub>Finally, someone who eats the backlog.</sub></p>
+
+## 🌐 Somewhere on the internet
+
+<p align="center">
+  <a href="https://codeberg.org/n3koNinja"><img src="https://img.shields.io/badge/Codeberg-n3koNinja-2185D0?style=for-the-badge&amp;logo=codeberg&amp;logoColor=white" alt="n3koNinja on Codeberg" /></a>
+  <a href="https://instagram.com/deijingx"><img src="https://img.shields.io/badge/Instagram-deijingx-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="deijingx on Instagram" /></a>
+</p>
+
+<p align="center"><sub>Online, probably. Replying, eventually. Investigating a weird bug, almost certainly.</sub></p>
 
 ---
 
-## 🚧 Projects (and experiments) that not survived 🫠
-<!-- (and experiments that survived) -->
-
-<div align="center">
-
-| 🚀 Project | 🌡️ Version | 🔄 Status |
-|------------|------------|------------|
-| [J2H](https://github.com/nikas17mc/j2h) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.1-00AF2B) | 🆕 New |
-| [AniBuu](https://github.com/nikas17mc/aniBuu) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.5-663399) | 🛠️ Active |
-| [rnB_msP](https://github.com/nikas17mc/rnB_msP) | ![Beta](https://img.shields.io/badge/Version-Beta_0.1-orange) | 📦 Archived |
-| [WinGet Install Script](https://github.com/nikas17mc/win-get_install_script) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.3-green) | 👨‍💻📦 Under Question / Archived |
-| [My Old Website from 2020](https://github.com/nikas17mc/nikas17mc.github.io) | ![Alpha](https://img.shields.io/badge/Version-Alpha_0.0.1.1-blue) | 📦 Archived |
-
-</div>
-
-<sub>More in the lab. Some crashes. Some forgets in the caves.</sub>
-
----
-
-## 🌐 Socials?
-
-<div align="center">
-  <a href="https://codeberg.org/n3koNinja" target="_blank">
-    <img src="https://img.shields.io/badge/Codeberg-Sometimes-blue?logo=codeberg&logoColor=white" height="30"/>
-  </a><br>
-  <a href="https://instagram.com/deijingx" target="_blank">
-    <img src="https://img.shields.io/badge/Insta-Idk-grey?logo=instagram&logoColor=white" height="30"/>
-  </a>
-</div>
-
-<div align="right">
-  <img src="https://i.imgflip.com/7onfrb.jpg" height="150" />
-  <img src="https://i.imgflip.com/6zr6q4.gif" height="150" />
-</div>
-
-> Sozials? Yeah, kinda… maybe.
->
-> But let’s be real:
->
-> **You want my socials?**  
-> Nah. I’m a ghost in the shell. 🧞🚨  
-> Hacker name: `bubibabubo`  
-> Status: online but elusive.
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nikas17mc/nikas17mc/snake-output/github-snake.svg" />
-</picture>
-</div>
-
----
-
-<sub>Yes, this README updates as I evolve. So stay tuned… or don’t. I’ll keep coding anyway, but only when I have time after Jork 🫩 (Work).</sub>
+<p align="center">
+  <b>Still learning. Still building. Still asking why—even when the exam only wants the answer.</b><br />
+  <sub>Updates ship between Jork™ (work) and School™ (mandatory indoctrination with homework). The bugs skipped both and somehow still landed a full-time job.</sub>
+</p>
