@@ -4,7 +4,7 @@
 <h3 align="center">Systems integration apprentice · Web tinkerer · Bug negotiator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1400&amp;color=70F0B5&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=Building%20useful%20web%20apps;Negotiating%20with%20Linux;It%20worked%20until%20I%20improved%20it" alt="Building useful web apps. Negotiating with Linux. It worked until I improved it." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1500&amp;color=70F0B5&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Building%20useful%20web%20apps;Negotiating%20with%20Linux;It%20worked%20until%20I%20improved%20it;%F0%9F%8D%9C%20Fueled%20by%20tea%20and%20curiosity" alt="Building useful web apps. Negotiating with Linux. It worked until I improved it. Fueled by Tea and curiosity" />
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  I build things for the browser, automate the repetitive stuff,<br />
-  and occasionally turn a five-minute fix into an evening with documentation.
+  I build things for the browser, automate the repetitive stuff, and occasionally turn a five-minute fix into an evening with documentation.
 </p>
 
 ---
@@ -129,11 +128,20 @@ Earlier projects and experiments — preserved for science, nostalgia, and evide
 ## 🌐 Somewhere on the internet
 
 <p align="center">
-  <a href="https://codeberg.org/n3koNinja"><img src="https://img.shields.io/badge/Codeberg-n3koNinja-2185D0?style=for-the-badge&amp;logo=codeberg&amp;logoColor=white" alt="n3koNinja on Codeberg" /></a>
-  <a href="https://instagram.com/deijingx"><img src="https://img.shields.io/badge/Instagram-deijingx-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="deijingx on Instagram" /></a>
+  <a href="https://codeberg.org/n3koNinja">
+    <img src="https://img.shields.io/badge/Codeberg-n3koNinja-2185D0?style=for-the-badge&amp;logo=codeberg&amp;logoColor=white" alt="n3koNinja on Codeberg" />
+  </a>
+  <a href="https://instagram.com/deijingx" title="I haven’t used Instagram since early August 2026.">
+    <img src="https://img.shields.io/badge/Instagram-deijingx_(inactive)-6B7280?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="deijingx on Instagram — inactive since early August 2026" />
+  </a>
 </p>
 
-<p align="center"><sub>Online, probably. Replying, eventually. Investigating a weird bug, almost certainly.</sub></p>
+<p align="center">
+  <sub>
+    <b>Instagram: inactive since early August 2026.</b><br />
+    The account is collecting digital dust. DMs enjoy unlimited waiting time.
+  </sub>
+</p>
 
 ---
 
