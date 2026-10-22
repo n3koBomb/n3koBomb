@@ -44,7 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,figma&amp;perline=3" width="144" alt="HTML, CSS, JavaScript, Three.js, Figma" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,pug,mongodb,mysql,php&amp;perline=3" width="144" alt="Node.js, Express, Pug, MongoDB, MySQL, PHP" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,postman,npm&amp;perline=3" width="144" alt="Git, GitHub, VS Code, Cloudflare, Postman, npm" /> | <img src="https://skillicons.dev/icons?i=linux,arch,windows,bash,powershell,py&amp;perline=3" width="144" alt="Linux, Arch Linux ecosystem, Windows, Bash, PowerShell, Python; experience varies" /> | <img src="https://skillicons.dev/icons?i=rust,ts,react&amp;perline=3" width="144" alt="Learning interests: Rust and Cargo, TypeScript, React" /><br /><sub>Rust & Cargo · TypeScript · React</sub> |
 
-My main playground is **JavaScript, Node.js, Express, and Pug**. Also in the mix: **Socket.IO, Mongoose, SQL, SVG, and browser APIs**.
+My main playground is **JavaScript, Node.js, Wrangler, Automation**. Also in the mix: **SVG, and browser APIs**.
 
 <sub>Experience varies across the toolbox. The learning column is a roadmap, not a victory screen.</sub>
 
@@ -62,8 +62,9 @@ Also on the learning radar: **TypeScript, React, networking, and automation**. O
 I’m **Nikolai**, a curious developer from **Düsseldorf, Germany**.
 
 - 🎓 **Systems integration apprentice at Telefónica Germany** since September 2026 — officially *Fachinformatiker für Systemintegration*.
+> [ I know this has nothing with web development. ]
 - 💻 My biggest coding interest is **web and application development**: useful interfaces, sensible backends, and understanding how the whole thing fits together.
-- 🛠️ My usual playground is **JavaScript, Node.js, Express, and Pug**. Three.js is where I go when two dimensions feel suspiciously reasonable.
+- 🛠️ My usual playground is **JavaScript, Node.js, Wrangler, Automation**. Three.js is where I go when two dimensions feel suspiciously reasonable.
 - ♿ I care about **readable layouts, accessibility, dark/light themes, and documentation people can actually use**.
 - 🗣️ Native **German and Russian**; improving **English** and learning **Japanese**. Stack traces are the unofficial fifth language.
 
@@ -73,9 +74,10 @@ I’m **Nikolai**, a curious developer from **Düsseldorf, Germany**.
 ## 🐧 Side quests that became main quests
 
 - **Linux:** CachyOS + Hyprland + Caelestia. A desktop is never finished if there is still a config file.
+> This is also the case if `system-rfkill.service` is blocking your Bluetooth for some reason — after you’ve discovered that the main culprit is [blueman](https://github.com/blueman-project/blueman), which blocks your Bluetooth Driver after every instance of entering Standby and every Restart.
 - **Minecraft:** servers, mods, tunnels, maps, and the occasional authentication mystery. It’s a block game until DNS gets involved.
 - **Hardware & electronics:** computers, tinkering, and an interest in robotics. Software bugs are fun; hardware adds suspense.
-- **Away from the keyboard:** cycling, cooking, anime, and thriller books. Sometimes the thriller is `journalctl`.
+- **Away from the keyboard:** cycling, cooking, anime, play games, and thriller books. Sometimes the thriller is `journalctl` with dopamine and `bpftrace`, `rg`.
 
 <details>
 <summary><b>💻 A highly scientific developer profile</b></summary>
@@ -84,8 +86,8 @@ I’m **Nikolai**, a curious developer from **Düsseldorf, Germany**.
 const nikolai = {
   handle: "n3koBomb",
   mainQuest: "Understand it. Build it. Debug it.",
-  favoriteStack: ["JavaScript", "Node.js", "Express", "Pug"],
-  sideQuests: ["Three.js", "Linux configs", "Minecraft servers"],
+  favoriteStack: ["JavaScript", "Node.js", "Wrangler", "Automation"],
+  sideQuests: ["Linux kernel extraction", "Minecraft servers", "website building"],
   currentTask: "A small CSS adjustment",
   actualScope: "To be determined",
 };
@@ -100,11 +102,11 @@ console.log("It works!");
 <summary><b>🏛️ Repository archaeology</b></summary>
 
 Earlier projects and experiments — preserved for science, nostalgia, and evidence that everyone starts somewhere.
-- **[Digitaler Techniker Dashboard](https://github.com/n3koBomb/digital_technician_dashboard)**
-- **[J2H](https://github.com/n3koBomb/j2h)** — archived
-- **[AniBuu](https://github.com/n3koBomb/aniBuu)** — archived
-- **[rnB_msP](https://github.com/n3koBomb/rnB_msP)** — archived
-- **[WinGet Install Script](https://github.com/n3koBomb/win-get_install_script)** — archived
+- **[Digitaler Techniker Dashboard](https://github.com/n3koBomb/digital_technician_dashboard)** — what ever I did before no one needed.
+- **[J2H](https://github.com/n3koBomb/j2h)** — private
+- **[AniBuu](https://github.com/n3koBomb/aniBuu)** — forgotten sandwich box behind the school shelf
+- **[rnB_msP](https://github.com/n3koBomb/rnB_msP)** — private, archived
+- **[WinGet Install Script](https://github.com/n3koBomb/win-get_install_script)** — did I ever do this before?
 - **[My website from 2020](https://github.com/n3koBomb/nikas17mc.github.io)** — archived; a digital time capsule
 
 <sub>Some ideas get shipped. Some get shelved. All of them teach you something, even if that something is “make a backup.”</sub>
@@ -131,7 +133,10 @@ Earlier projects and experiments — preserved for science, nostalgia, and evide
     <img src="https://img.shields.io/badge/Codeberg-n3koNinja-2185D0?style=for-the-badge&amp;logo=codeberg&amp;logoColor=white" alt="n3koNinja on Codeberg" />
   </a>
   <a href="https://instagram.com/deijingx" title="I haven’t used Instagram since early August 2026.">
-    <img src="https://img.shields.io/badge/Instagram-deijingx_(inactive)-6B7280?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="deijingx on Instagram — inactive since early August 2026" />
+    <img src="https://img.shields.io/badge/Instagram-deijingx_(inactive)-6B7280?style=for-the-badge&amp;logo=instagram&amp;logoColor=E0225B" alt="deijingx on Instagram — inactive since early August 2026" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikolai-kovalev-998672441">
+    <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0A66C2?style=for-the-badge" alt="Nikolai on linkedIn" />
   </a>
 </p>
 
